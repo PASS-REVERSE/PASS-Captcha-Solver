@@ -6,7 +6,7 @@ import requests
 import sys
 import os
 
-BASE_URL = "https://pass-captcha-server.onrender.com"
+BASE_URL = "https://pass-captcha-solver.onrender.com/"
 image_path = sys.argv[1] if len(sys.argv) > 1 else "captcha.png"
 
 if not os.path.exists(image_path):
