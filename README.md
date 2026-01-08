@@ -1,7 +1,7 @@
-# PASS 캡차용 모델 웹서버
+# PASS용 캡차 솔버
 https://github.com/WooilJeong/CaptchaCracker/ 를 수정한 `captcha_cracker_ll.py`가 포함되어 있습니다.
 
-[예시 캡차 이미지](https://github.com/Imp1ex/pass-captcha-server/blob/main/captcha.png)
+[예시 캡차 이미지](https://github.com/PASS-REVERSE/PASS-Captcha-Solver/blob/main/captcha.png)
 ```py
 import requests
 import sys
