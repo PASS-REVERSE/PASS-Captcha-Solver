@@ -33,4 +33,4 @@ except:
 # 권장 방법
 무료로 본인용 서버 생성
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Imp1ex/pass-captcha-server)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PASS-REVERSE/PASS-Captcha-Solver)
