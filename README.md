@@ -34,4 +34,5 @@ except:
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PASS-REVERSE/PASS-Captcha-Solver)
 
 그리고 서버 계속 깨어있게 하기 (무료티어는 15분동안 요청 없으면 서버 잠듦)<br>
-https://uptimerobot.com/
+https://uptimerobot.com/<br>
+https://cron-job.org/
