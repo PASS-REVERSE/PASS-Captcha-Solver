@@ -1,6 +1,5 @@
 # PASS용 캡차 솔버
-https://github.com/WooilJeong/CaptchaCracker/ 를 수정한 `captcha_cracker_ll.py`가 포함되어 있습니다.
-
+https://github.com/WooilJeong/CaptchaCracker/ 를 수정한 `captcha_cracker_ll.py`가 포함되어 있습니다.<br>
 [예시 캡차 이미지](https://github.com/PASS-REVERSE/PASS-Captcha-Solver/blob/main/captcha.png)
 ```py
 import requests
@@ -31,12 +30,8 @@ except:
 <br>
 
 # 권장 방법
-무료로 본인용 서버 생성하기
-
+무료로 본인용 서버 생성하기<br>
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PASS-REVERSE/PASS-Captcha-Solver)
 
-<br>
-
-그리고 서버 계속 깨어있게 하기 (무료티어는 15분동안 요청 없으면 서버 잠듦)
-
+그리고 서버 계속 깨어있게 하기 (무료티어는 15분동안 요청 없으면 서버 잠듦)<br>
 https://uptimerobot.com/
