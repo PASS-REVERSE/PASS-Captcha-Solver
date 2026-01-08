@@ -31,6 +31,12 @@ except:
 <br>
 
 # 권장 방법
-무료로 본인용 서버 생성
+무료로 본인용 서버 생성하기
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PASS-REVERSE/PASS-Captcha-Solver)
+
+<br>
+
+그리고 서버 계속 깨어있게 하기 (무료티어는 15분동안 요청 없으면 서버 잠듦)
+
+https://uptimerobot.com/
